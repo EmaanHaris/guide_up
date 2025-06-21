@@ -45,10 +45,4 @@ University students often struggle with identifying career paths that match thei
 - **Database**: Firebase
 
 
-### Installation
 
-```bash
-git clone https://github.com/yourusername/GuideUp.git
-cd GuideUp
-npm install
-npm start
